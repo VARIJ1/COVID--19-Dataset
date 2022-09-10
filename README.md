@@ -9,9 +9,7 @@ Source- I extracted the dataset from https://datahub.io/core/covid-19
 (File Used –worldwide - aggregate)
 
 
-Dashboard Link -
-
-[COVID - 19 Automated Tracker](https://public.tableau.com/app/profile/varij1192/viz/COVID19AutomatedTracker_16600233688300/Dashboard1)
+Dashboard Link - [COVID - 19 Automated Tracker](https://public.tableau.com/app/profile/varij1192/viz/COVID19AutomatedTracker_16600233688300/Dashboard1)
 
 
 
@@ -24,7 +22,5 @@ Source- I extracted the dataset from https://datahub.io/core/covid-19
 (File Used – countries - aggregated)
 
 
-Dashboard Link –  
-
-[Covid - 19 Tracker By Country](https://public.tableau.com/app/profile/varij1192/viz/Covid-19TrackerByCountry/CovidTrackerByCountry)
+Dashboard Link –  [Covid - 19 Tracker By Country](https://public.tableau.com/app/profile/varij1192/viz/Covid-19TrackerByCountry/CovidTrackerByCountry)
 
