@@ -1,5 +1,5 @@
-# COVID--19-Dataset
-Performed Data Cleaning and Made Dashboards In Tableau on COVID–19
+# COVID-19 Dataset
+Performed Data Cleaning and Made Dashboards In Tableau related to COVID–19
 
 First Dashboard :
 
