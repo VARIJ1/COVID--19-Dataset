@@ -15,6 +15,8 @@ Dashboard Link -
 
 
 
+
+
 Second Dashboard :
 
 COVID – 19 Tracker by Country – I have made a static dashboard tracking COVID – 19 Cases. Since it is a static dashboard so this data is not going to update if further new data is added but this dashboard is fully interactive. I have used a dual axis graph, applied advanced Conditional formatting and created different calculated fields so as to create new data which is useful for my dashboard.
