@@ -9,7 +9,20 @@ Source- I extracted the dataset from https://datahub.io/core/covid-19
 (File Used –worldwide - aggregate)
 
 
-Dashboard Link –
+Dashboard Link -
 
 [COVID - 19 Automated Tracker](https://public.tableau.com/app/profile/varij1192/viz/COVID19AutomatedTracker_16600233688300/Dashboard1)
+
+
+
+Second Dashboard :
+
+COVID – 19 Tracker by Country – I have made a static dashboard tracking COVID – 19 Cases. Since it is a static dashboard so this data is not going to update if further new data is added but this dashboard is fully interactive. I have used a dual axis graph, applied advanced Conditional formatting and created different calculated fields so as to create new data which is useful for my dashboard.
+Source- I extracted the dataset from https://datahub.io/core/covid-19
+(File Used – countries - aggregated)
+
+
+Dashboard Link –  
+
+[Covid - 19 Tracker By Country](https://public.tableau.com/app/profile/varij1192/viz/Covid-19TrackerByCountry/CovidTrackerByCountry)
 
