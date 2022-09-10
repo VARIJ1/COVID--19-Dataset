@@ -24,3 +24,18 @@ Source- I extracted the dataset from https://datahub.io/core/covid-19
 
 Dashboard Link –  [Covid - 19 Tracker By Country](https://public.tableau.com/app/profile/varij1192/viz/Covid-19TrackerByCountry/CovidTrackerByCountry)
 
+
+
+
+Third Dashboard :
+
+Analyzing Donald Trump Tweets : I have analyzed Donald Trump's tweets about the Coronavirus. So this includes all his tweets from the first of January 2020.
+ Also I have added actions - If we click for tweet details it actually gives us the underlying data it was referencing.
+
+Source - I extracted the dataset from https://www.thetrumparchive.com/
+
+
+
+Dashboard Link - [Donald Trump Twitter Dashboard](https://public.tableau.com/app/profile/varij1192/viz/Donald_Trump_TwitterDashboard/TrumpTwitterDashboard)
+
+
